@@ -48,7 +48,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: url("../images/header-fon/header-fon.jpg");
+  background-image: url("../images/header-fon/header-fon.webp");
   background-size: cover;
   color: white;
   /* filter: brightness(0.8); */
@@ -123,7 +123,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url(../images/quote/quote.jpg);
+  background-image: url(../images/quote/quote.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -182,7 +182,7 @@ body {
 }
 
 .price {
-  background-image: url("../images/price-fon/price-fon.jpg");
+  background-image: url("../images/price-fon/price-fon.webp");
   background-size: cover;
   background-position: center;
   color: white;
